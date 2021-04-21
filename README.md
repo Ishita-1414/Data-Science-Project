@@ -1,1 +1,2 @@
-# Data-Science-Project
+# ANALYSIS OF OPEN UNIVERSITY LEARNING DATASET
+Open University Learning Analytics Dataset (OULAD). It contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by “B” and “J” respectively. The dataset consists of tables connected using unique identifiers. All tables are stored in the csv format.
